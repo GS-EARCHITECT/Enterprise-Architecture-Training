@@ -1,2 +1,2 @@
-# EA
-Enterprise Architecture
+# Enterprise Architecture 
+Concepts, Processes, Notation, Tools
